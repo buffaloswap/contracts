@@ -9,6 +9,11 @@ https://www.buffaloswap.org
 - BuffaloReferral: [0xAF62F1A47d5655250a7884485ac13FaCBfC01DAd](https://bscscan.com/address/0xAF62F1A47d5655250a7884485ac13FaCBfC01DAd)
 - Timelock: [0x5d1F9DF692B06FF3fc55f51c1050bE68DBEB33EF](https://bscscan.com/address/0x5d1F9DF692B06FF3fc55f51c1050bE68DBEB33EF)
 
+- RedBuffToken: [0x9eC132c19f2c35272DE3f81a75D674752D952DA8](https://bscscan.com/address/0x9eC132c19f2c35272DE3f81a75D674752D952DA8)
+- RedBuffMasterChef: [0xE4B6C160F4875040A8383Ac3623E150397632FE2](https://bscscan.com/address/0xE4B6C160F4875040A8383Ac3623E150397632FE2)
+
+
+
 ## Deployed by PancakeSwap (v2 version)
 
 - V2 Factory: [0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73](https://bscscan.com/address/0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73)
